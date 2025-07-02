@@ -50,7 +50,7 @@ void MostrarLista(tlista lista) {
     cout << endl;
 }
 
-// ✅ Punto 4: Mostrar el valor mayor y menor de la lista
+//  Punto 4: Mostrar el valor mayor y menor de la lista
 void MostrarMayorYMenor(tlista lista) {
     if (lista.inicio == NULL) {
         cout << "La lista está vacía." << endl;
